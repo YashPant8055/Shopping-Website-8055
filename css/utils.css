@@ -1,0 +1,18 @@
+.flex-all-center{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.button{
+    font-size: 11px;
+    padding: 1px 3px;
+    border: 2px solid white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.card-items img{
+    cursor: pointer;
+    width: 150px
+}
